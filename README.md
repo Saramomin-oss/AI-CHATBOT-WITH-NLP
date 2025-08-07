@@ -68,4 +68,5 @@ Basic AI logic
 Great base to expand into machine learning-based or API-integrated bots.
 
 ##OUTPUT:
+
 <img width="773" height="286" alt="image" src="https://github.com/user-attachments/assets/cd130272-dcd9-4ae7-b037-34c94b5789ea" />
